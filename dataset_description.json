@@ -1,0 +1,15 @@
+{
+  "Name": "free walking study",
+  "BIDSVersion": "v2.0",
+  "License": "Creative commons",
+  "Authors": [
+    "Nadine Jacobsen",
+    "Sarah Blum",
+    "Karsten Witt",
+    "Stefan Debener"
+  ],
+  "ReferencesAndLinks": [
+    "article link follows"
+  ],
+  "DatasetDOI": "add!"
+}
