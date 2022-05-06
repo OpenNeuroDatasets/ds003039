@@ -1,0 +1,6 @@
+Revision history for free walking
+
+version 2.0 beta - May 2022
+ - Added data of sub-017, sub-018, sub-019
+ - Updated participant IDs to be in increasing order
+ - Performed gait detection of sub-008 (formerly sub-011) again
