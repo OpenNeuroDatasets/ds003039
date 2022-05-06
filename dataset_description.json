@@ -1,15 +1,15 @@
 {
-  "Name": "free walking study",
-  "BIDSVersion": "v2.0",
-  "License": "Creative commons",
-  "Authors": [
-    "Nadine Jacobsen",
-    "Sarah Blum",
-    "Karsten Witt",
-    "Stefan Debener"
-  ],
-  "ReferencesAndLinks": [
-    "article link follows"
-  ],
-  "DatasetDOI": "add!"
+    "Name": "free walking study",
+    "BIDSVersion": "v2.0",
+    "License": "CC0",
+    "Authors": [
+        "Nadine Jacobsen",
+        "Sarah Blum",
+        "Karsten Witt",
+        "Stefan Debener"
+    ],
+    "ReferencesAndLinks": [
+        "Jacobsen, N. S. J., Blum, S., Witt, K., & Debener, S. (2020). A walk in the park? Characterizing gait-related artifacts in mobile EEG recordings. European Journal of Neuroscience. https://doi.org/10.1111/ejn.14965"
+    ],
+    "DatasetDOI": "add!"
 }
